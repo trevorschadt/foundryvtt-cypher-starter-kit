@@ -1,0 +1,338 @@
+[
+  {
+    "key": "barbrawl.defaultResources",
+    "value": "{\"bar3\":{\"order\":0,\"id\":\"bar3\",\"attribute\":\"pools.intellect\",\"mincolor\":\"#000000\",\"maxcolor\":\"#0000ff\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar2\":{\"order\":1,\"id\":\"bar2\",\"attribute\":\"pools.speed\",\"mincolor\":\"000\",\"maxcolor\":\"#00ff00\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar1\":{\"order\":2,\"id\":\"bar1\",\"attribute\":\"pools.might\",\"mincolor\":\"\",\"maxcolor\":\"#FF0000\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null}}"
+  },
+  {
+    "key": "barbrawl.defaultsPerType",
+    "value": "true"
+  },
+  {
+    "key": "barbrawl.defaultTypeResources",
+    "value": "{\"bar3\":{\"order\":0,\"id\":\"bar3\",\"attribute\":\"pools.intellect\",\"mincolor\":\"#000000\",\"maxcolor\":\"#0000ff\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar2\":{\"order\":1,\"id\":\"bar2\",\"attribute\":\"pools.speed\",\"mincolor\":\"000\",\"maxcolor\":\"#00ff00\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar1\":{\"order\":2,\"id\":\"bar1\",\"attribute\":\"pools.might\",\"mincolor\":\"\",\"maxcolor\":\"#FF0000\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"pc\":{\"bar3\":{\"order\":0,\"id\":\"bar3\",\"attribute\":\"pools.intellect\",\"mincolor\":\"#000000\",\"maxcolor\":\"#0000ff\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar2\":{\"order\":1,\"id\":\"bar2\",\"attribute\":\"pools.speed\",\"mincolor\":\"000\",\"maxcolor\":\"#00ff00\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null},\"bar1\":{\"order\":2,\"id\":\"bar1\",\"attribute\":\"pools.might\",\"mincolor\":\"#000000\",\"maxcolor\":\"#ff0000\",\"position\":\"top-outer\",\"otherVisibility\":50,\"ownerVisibility\":50,\"gmVisibility\":-1,\"hideFull\":false,\"hideEmpty\":false,\"hideCombat\":false,\"hideNoCombat\":false,\"indentLeft\":null,\"indentRight\":null,\"shareHeight\":false,\"style\":\"user\",\"label\":\"\",\"invert\":false,\"invertDirection\":false,\"subdivisions\":null,\"subdivisionsOwner\":false,\"fgImage\":\"\",\"bgImage\":\"\",\"opacity\":null}}}"
+  },
+  {
+    "key": "barbrawl.hideHostile",
+    "value": "true"
+  },
+  {
+    "key": "barbrawl.textStyle",
+    "value": "\"fraction\""
+  },
+  {
+    "key": "core.chatBubblesPan",
+    "value": "false"
+  },
+  {
+    "key": "core.collectionSortingModes",
+    "value": "{\"undefined\":\"a\",\"CompendiumPacks\":\"t\"}"
+  },
+  {
+    "key": "core.defaultToken",
+    "value": "{\"lockRotation\":true,\"sight\":{\"enabled\":true},\"flags\":{\"tagger\":{\"tags\":\"\"},\"barbrawl\":{\"resourceBars\":{}}},\"displayName\":50,\"detectionModes\":[{\"id\":\"basicSight\",\"range\":null,\"enabled\":true}]}"
+  },
+  {
+    "key": "core.moduleConfiguration",
+    "value": "{\"acelib\":false,\"cyphersystem-activeeffects\":false,\"actor-attribute-lists\":false,\"barbrawl\":true,\"cypher-addons-compendiums\":true,\"cyphersystem-compendium\":true,\"cyphercombat\":true,\"cyphersheets\":true,\"data-toolbox\":true,\"dice-so-nice\":false,\"drag-document-link\":true,\"dae\":false,\"easy-exports\":true,\"pdf-sheet\":false,\"game-icons-net\":true,\"hide-sidebars\":true,\"koboldworks-pause-control\":true,\"colorsettings\":false,\"lib-wrapper\":true,\"mkah-compendium-importer\":false,\"mobile-improvements\":false,\"monks-combat-details\":true,\"monks-hotbar-expansion\":true,\"monks-little-details\":true,\"nice-cypher-add-ons\":true,\"party-overview\":false,\"socketlib\":true,\"streamoverlay\":false,\"0streamutils\":false,\"stream-view\":true,\"tagger\":true,\"times-up\":true,\"token-action-hud\":false,\"token-action-hud-core\":true,\"token-action-hud-cyphersystem\":true,\"rolladvantage-token-stamp-2-foundry\":true,\"touch-vtt\":false,\"fantasy-shorts-vol-1\":false,\"fantasy-shorts-vol-2\":false,\"fantasy-shorts-vol-3\":false,\"about-time\":false,\"active-effect-manager-lib\":false,\"popout\":true,\"rolltable-from-sidebar\":true,\"settings-extender\":false,\"visual-active-effects\":false,\"classic-ui\":true,\"cosmic-dice\":false,\"quick-combat\":false,\"cypher-starter-kit\":false,\"cyphersystem-community-module\":false,\"dmdave-trapped-tomb\":false,\"forien-copy-environment\":true}"
+  },
+  {
+    "key": "core.notesDisplayToggle",
+    "value": "true"
+  },
+  {
+    "key": "core.nue.shownTips",
+    "value": "true"
+  },
+  {
+    "key": "core.performanceMode",
+    "value": "2"
+  },
+  {
+    "key": "core.permissions",
+    "value": "{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"PING_CANVAS\":[1,2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"NOTE_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[2,3,4],\"ACTOR_CREATE\":[2,3,4],\"ITEM_CREATE\":[2,3,4],\"TOKEN_CREATE\":[1,2,3,4],\"TOKEN_DELETE\":[1,2,3,4],\"SHOW_CURSOR\":[],\"SHOW_RULER\":[],\"SETTINGS_MODIFY\":[2,3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[1,2,3,4],\"DRAWING_CREATE\":[2,3,4],\"FILES_BROWSE\":[1,2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"CARDS_CREATE\":[3,4]}"
+  },
+  {
+    "key": "core.rtcClientSettings",
+    "value": "{\"videoSrc\":\"default\",\"audioSrc\":\"default\",\"audioSink\":\"default\",\"dockPosition\":\"left\",\"hidePlayerList\":true,\"hideDock\":false,\"muteAll\":false,\"disableVideo\":false,\"borderColors\":true,\"nameplates\":1,\"voice\":{\"mode\":\"ptt\",\"pttName\":\"`\",\"pttDelay\":100,\"activityThreshold\":-45},\"users\":{}}"
+  },
+  {
+    "key": "core.sheetClasses",
+    "value": "{\"Actor\":{\"pc\":\"cyphersheets.ClaimSkySuperheroes\"}}"
+  },
+  {
+    "key": "core.tourProgress",
+    "value": "{\"core\":{\"welcome\":3,\"uiOverview\":7}}"
+  },
+  {
+    "key": "cyphersheets.expanded",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.generic",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.godforsaken",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.godsofthefall",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.numenera",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.originalsheet",
+    "value": "true"
+  },
+  {
+    "key": "cyphersheets.predation",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.ptolus",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.starsarefire",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.stayalive",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.thestrange",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.unmasked",
+    "value": "false"
+  },
+  {
+    "key": "cyphersheets.waamh",
+    "value": "false"
+  },
+  {
+    "key": "cyphersystem.barBrawlDefaults",
+    "value": "false"
+  },
+  {
+    "key": "cyphersystem.cypherIdentification",
+    "value": "1"
+  },
+  {
+    "key": "cyphersystem.diceTray",
+    "value": "1"
+  },
+  {
+    "key": "cyphersystem.effectiveDifficulty",
+    "value": "2"
+  },
+  {
+    "key": "cyphersystem.itemMacrosUseAllInOne",
+    "value": "true"
+  },
+  {
+    "key": "cyphersystem.sheetCustomizationLogoImage",
+    "value": "\"none\""
+  },
+  {
+    "key": "cyphersystem.systemMigrationVersion",
+    "value": "\"2.8.2\""
+  },
+  {
+    "key": "cyphersystem.welcomeMessage",
+    "value": "false"
+  },
+  {
+    "key": "hide-sidebars.hidecompendium",
+    "value": "false"
+  },
+  {
+    "key": "hide-sidebars.hidetables",
+    "value": "false"
+  },
+  {
+    "key": "koboldworks-pause-control.unpauseOnReady",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.play-next-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.play-turn-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.prevent-combat-spells",
+    "value": "\"true\""
+  },
+  {
+    "key": "monks-combat-details.transfer-settings",
+    "value": "true"
+  },
+  {
+    "key": "monks-combat-details.transfer-settings-client",
+    "value": "true"
+  },
+  {
+    "key": "monks-hotbar-expansion.collapse-on-select",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.add-extra-statuses",
+    "value": "true"
+  },
+  {
+    "key": "monks-little-details.prevent-combat-spells",
+    "value": "\"true\""
+  },
+  {
+    "key": "monks-little-details.show-warning",
+    "value": "false"
+  },
+  {
+    "key": "stream-view.camera-mode",
+    "value": "\"disabled\""
+  },
+  {
+    "key": "stream-view.chat-max-height",
+    "value": "400"
+  },
+  {
+    "key": "stream-view.chat-position-x",
+    "value": "0"
+  },
+  {
+    "key": "stream-view.chat-position-y",
+    "value": "0"
+  },
+  {
+    "key": "stream-view.disable-combatant-tracking",
+    "value": "true"
+  },
+  {
+    "key": "stream-view.disable-manually-tracked-tokens",
+    "value": "true"
+  },
+  {
+    "key": "stream-view.maximum-scale",
+    "value": "1"
+  },
+  {
+    "key": "stream-view.minimum-scale",
+    "value": "1"
+  },
+  {
+    "key": "stream-view.popout-height",
+    "value": "800"
+  },
+  {
+    "key": "stream-view.popout-width",
+    "value": "600"
+  },
+  {
+    "key": "stream-view.preview-display",
+    "value": "\"never\""
+  },
+  {
+    "key": "stream-view.user-id",
+    "value": "\"C32xSCpdihMHkyqc\""
+  },
+  {
+    "key": "times-up.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "times-up.DisablePassiveEffects",
+    "value": "true"
+  },
+  {
+    "key": "times-up.store",
+    "value": "{\"entries\":[]}"
+  },
+  {
+    "key": "token-action-hud-core.allow",
+    "value": "\"1\""
+  },
+  {
+    "key": "token-action-hud-core.customLayout",
+    "value": "null"
+  },
+  {
+    "key": "token-action-hud-core.migrationVersion",
+    "value": "\"1.4.16\""
+  },
+  {
+    "key": "token-action-hud-core.startup",
+    "value": "true"
+  },
+  {
+    "name": "Gamemaster",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#5f28cc",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {
+      "token-action-hud-core": {
+        "isUnlocked": false,
+        "isCollapsed": false,
+        "position": {
+          "top": 129,
+          "left": 946
+        }
+      },
+      "dice-so-nice": {
+        "welcomeMessageShown": true
+      },
+      "token-action-hud": {
+        "categories": {
+          "pools": {
+            "title": "Pools",
+            "id": "pools",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "combat": {
+            "title": "Combat",
+            "id": "combat",
+            "push": false,
+            "core": true
+          },
+          "abilities": {
+            "title": "Abilities",
+            "id": "abilities",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 96,
+          "left": 176
+        },
+        "isCollapsed": false
+      },
+      "monks-little-details": {
+        "last-actor": "Actor.iFa7kv0TBGiYtTky"
+      }
+    }
+  }
+]

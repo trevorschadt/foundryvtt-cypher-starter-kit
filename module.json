@@ -1,0 +1,180 @@
+{
+  "id": "cypher-starter-kit",
+  "title": "Cypher Starter Kit",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "acelib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "barbrawl",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "colorsettings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cypher-addons-compendiums",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cyphercombat",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cyphersheets",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cyphersystem-community-module",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cyphersystem-compendium",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "drag-document-link",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "nice-cypher-add-ons",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "settings-extender",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-cyphersystem",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-combat-details",
+        "type": "module"
+      },
+      {
+        "id": "monks-hotbar-expansion",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "cyphersystem",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "game-icons-net",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "hide-sidebars",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "koboldworks-pause-control",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "popout",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "rolladvantage-token-stamp-2-foundry",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "stream-view",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "times-up",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "rolltable-from-sidebar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-copy-environment",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-little-details",
+        "type": "module"
+      }
+    ]
+  },
+  "description": "My set of starter materials for a Cypher world",
+  "authors": [
+    {
+      "name": "Trevor Schadt",
+      "email": "vitruvianmeeple@gmail.com",
+      "discord": "VitruvianMeeple"
+    }
+  ],
+  "packs": [
+    {
+      "name": "cyphers",
+      "label": "Cyphers",
+      "path": "packs/cyphers-rollable-table",
+      "type": "RollTable",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
