@@ -90,6 +90,10 @@
       {
         "id": "monks-hotbar-expansion",
         "type": "module"
+      },
+      {
+        "id": "monks-little-details",
+        "type": "module"
       }
     ],
     "systems": [
@@ -149,10 +153,6 @@
         "id": "forien-copy-environment",
         "type": "module",
         "compatibility": {}
-      },
-      {
-        "id": "monks-little-details",
-        "type": "module"
       }
     ]
   },
